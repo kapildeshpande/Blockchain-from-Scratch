@@ -22,7 +22,8 @@ To run this project:
 
    - Create new virtualenv
    - Install all requirements
+    ```pip install -r requirements.txt```
    - Run app.py for Blockchain Frontend, blockchain_client.py for Blockchain Client
    - You can create different PEERS by specifying different ports
-   - eg: python app.py -p 5001  
+    ```python app.py -p 5001``` 
 
